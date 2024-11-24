@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello Everyone!, I'm Sharthak Jain, a Web Developer 👋🏼:
 Hi, I’m Shrut Jain from Indore. My education has been full of practical experiences and learning. I have skills in web development, Python, C++, C, MySQL, Power BI, Excel, AI, and ML, which have helped me work on different projects.<br><br>As a student, I’ve had some great work experiences. I took part in the Smart India Hackathon, where my team built a project to generate emails. I also worked on a health recommendation system for a minor project, built an Amazon clone using HTML and CSS, and created a Tic-Tac-Toe game with C++.<br><br>I’ve attended workshops like the IIT Flux Python AI workshop, a DevOps workshop, and an AWS workshop. These workshops helped me learn new technologies.<br><br>I’ve achieved a few things, like being a coordinator for workshops, leading my minor project team, and winning first prize in college extracurricular activities. My strengths are problem-solving and leadership, which help me handle challenges and work well with teams.
 
 
